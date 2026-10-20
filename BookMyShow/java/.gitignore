@@ -1,0 +1,25 @@
+# Compiled output
+*.class
+out/
+bin/
+build/
+target/
+
+# Packaged artifacts
+*.jar
+*.war
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code local overrides (shared settings.json stays tracked)
+.claude/settings.local.json
